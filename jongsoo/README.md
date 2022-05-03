@@ -5,3 +5,6 @@
 
 ##### 22/04/26
 [기본수학1](https://github.com/yeardream-off-4/practice/blob/main/jongsoo/math1.ipynb)
+
+##### 22/05/03
+[기본수학2](https://github.com/yeardream-off-4/practice/blob/main/jongsoo/math2.ipynb)
